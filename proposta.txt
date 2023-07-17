@@ -1,0 +1,17 @@
+Título do projeto: Aplicativo de Gerenciamento de Finanças Pessoais
+
+Descrição do projeto: O objetivo deste projeto é desenvolver um aplicativo de gerenciamento de finanças pessoais que ajude os usuários a controlarem suas despesas e receitas. O aplicativo permitirá que os usuários cadastrem suas transações financeiras, categorizem-nas e acompanhem seus gastos ao longo do tempo. Os usuários poderão visualizar gráficos e relatórios sobre seus gastos por categoria, monitorar seus saldos e definir metas financeiras.
+
+Obs: Não é obrigatório implementar os requisitos apresentados acima na totalidade, pode fazer o que for possível, mas seja criativo.
+
+Tecnologias sugeridas:
+Frameworks de frontend  como React/NextJS ou Flutter
+Gerenciador de estado
+Bibliotecas de UI, como Bootstrap ou Material-UI, ou qualquer outro
+Armazenamento local, utilizando o localStorage ou qualquer outra alternativa
+
+https://docs.google.com/document/d/1G5aFsGAK80M3zJ2ffwzKYgD9ozwqZSUS5ug4fDGBT3I/edit?pli=1
+
+https://docs.google.com/forms/d/e/1FAIpQLSdZA8faSnKPGfW8UH-1XNyluV6VPcGTEdnyP4XmqjlSM1J-Gg/viewform
+
+https://www.linkedin.com/jobs/view/3662636667/?refId=68d8a96e-e20e-4de5-abf5-cc5a3093865a&trackingId=3pMH%2BoAjSxGpJQXDK9hRQg%3D%3D
